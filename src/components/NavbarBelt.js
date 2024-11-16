@@ -38,7 +38,7 @@ const NavbarBelt = () => {
           <option>Customer Service</option>
           <option>Computers & Accessories</option>
         </select>
-        <input type="text" className='items-center justify-center h-10 w-[724px] rounded-none' placeholder="Search Amazon.in" />
+        <input type="text" className='items-center justify-center h-10 w-[730px] rounded-none' placeholder="Search Amazon.in " />
         <button className='p-2 h-10 w-12 rounded-r-lg bg-[#febd69]'>
           <img src={search} className='h-6' alt='search-btn' />
         </button>

@@ -3,7 +3,7 @@ import amazonLogo from "../assets/amazon-removebg-preview.png";
 
 function SignIn() {
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen bg-white">
+    <div className="flex flex-col justify-center items-center min-h-screen bg-white">
       <div className="flex items-center mb-5">
         <img
           src={amazonLogo}
